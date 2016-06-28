@@ -1,0 +1,18 @@
+[ Wed Jun 22 22:27:48 2016 ]=>  احمد العبيدي [10012023] added SuperGroup
+ 
+[ Wed Jun 22 22:27:59 2016 ]=>  احمد العبيدي [10012023] set: [122957431] as owner by reply
+ 
+[ Wed Jun 22 22:33:24 2016 ]=>  احمد العبيدي [10012023] left via kickme
+ 
+[ Wed Jun 22 22:33:25 2016 ]=>  ⚡️Robot⚡SupperBoT🛡 [0] deleted user user#id10012023
+ 
+[ Thu Jun 23 00:19:03 2016 ]=>  OmAx [122957431] started setting new SuperGroup photo
+ 
+[ Thu Jun 23 00:19:14 2016 ]=>  OmAx [122957431] set new SuperGroup photo
+ 
+[ Thu Jun 23 00:19:14 2016 ]=>  OmAx [122957431] set new SuperGroup photo
+ 
+[ Thu Jun 23 00:21:48 2016 ]=>  OmAx [122957431] attempted to create a new SuperGroup link
+ 
+[ Thu Jun 23 00:50:52 2016 ]=>  شهلاء [238305017] deleted user user#id238305017
+ 

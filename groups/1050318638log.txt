@@ -1,0 +1,98 @@
+[ Mon Jun 27 08:35:31 2016 ]=>  احمد العبيدي [10012023] added SuperGroup
+ 
+[ Mon Jun 27 22:28:59 2016 ]=>  احمد العبيدي [10012023] locked link posting 
+ 
+[ Mon Jun 27 22:31:55 2016 ]=>  احمد العبيدي [10012023] unlocked link posting
+ 
+[ Mon Jun 27 22:32:02 2016 ]=>  احمد العبيدي [10012023] locked link posting 
+ 
+[ Mon Jun 27 22:35:57 2016 ]=>  احمد العبيدي [10012023] locked link posting 
+ 
+[ Mon Jun 27 22:40:19 2016 ]=>  احمد العبيدي [10012023] unlocked link posting
+ 
+[ Mon Jun 27 22:40:27 2016 ]=>  احمد العبيدي [10012023] unlocked link posting
+ 
+[ Mon Jun 27 22:42:54 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Text
+ 
+[ Mon Jun 27 22:44:40 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute message
+ 
+[ Mon Jun 27 22:48:19 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Text
+ 
+[ Mon Jun 27 22:50:01 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Gifs
+ 
+[ Mon Jun 27 22:53:12 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Gifs
+ 
+[ Mon Jun 27 22:53:20 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Gifs
+ 
+[ Mon Jun 27 22:57:39 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Gifs
+ 
+[ Mon Jun 27 22:59:04 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Gifs
+ 
+[ Mon Jun 27 23:17:29 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Gifs
+ 
+[ Mon Jun 27 23:20:03 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Gifs
+ 
+[ Mon Jun 27 23:20:10 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Gifs
+ 
+[ Mon Jun 27 23:22:56 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Photo
+ 
+[ Mon Jun 27 23:41:08 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Photo
+ 
+[ Mon Jun 27 23:41:32 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Photo
+ 
+[ Mon Jun 27 23:42:42 2016 ]=>  احمد العبيدي [10012023] locked link posting 
+ 
+[ Mon Jun 27 23:42:48 2016 ]=>  احمد العبيدي [10012023] locked link posting 
+ 
+[ Mon Jun 27 23:56:26 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute Photo
+ 
+[ Mon Jun 27 23:57:14 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Audio
+ 
+[ Tue Jun 28 00:34:38 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: unmute message
+ 
+[ Tue Jun 28 00:37:51 2016 ]=>  🙈احـ🎶،ـمڊ_ݛۅگــے [55844649] deleted user user#id55844649
+ 
+[ Tue Jun 28 00:44:04 2016 ]=>  احمد العبيدي [10012023] locked rtl chars. in names
+ 
+[ Tue Jun 28 00:44:13 2016 ]=>  احمد العبيدي [10012023] unlocked RTL chars. in names
+ 
+[ Tue Jun 28 00:48:37 2016 ]=>  احمد_العبيدي [10012023] deleted user user#id55844649
+ 
+[ Tue Jun 28 00:50:23 2016 ]=>  احمد العبيدي [10012023] locked spam 
+ 
+[ Tue Jun 28 00:50:37 2016 ]=>  احمد العبيدي [10012023] locked spam 
+ 
+[ Tue Jun 28 00:51:01 2016 ]=>  احمد العبيدي [10012023] unlocked spam
+ 
+[ Tue Jun 28 00:51:11 2016 ]=>  احمد العبيدي [10012023] locked spam 
+ 
+[ Tue Jun 28 00:51:19 2016 ]=>  احمد العبيدي [10012023] locked spam 
+ 
+[ Tue Jun 28 00:52:27 2016 ]=>  احمد العبيدي [10012023] unlocked spam
+ 
+[ Tue Jun 28 00:52:38 2016 ]=>  احمد العبيدي [10012023] unlocked spam
+ 
+[ Tue Jun 28 00:56:03 2016 ]=>  احمد العبيدي [10012023] locked spam 
+ 
+[ Tue Jun 28 00:56:09 2016 ]=>  احمد العبيدي [10012023] unlocked spam
+ 
+[ Tue Jun 28 00:56:15 2016 ]=>  احمد العبيدي [10012023] unlocked spam
+ 
+[ Tue Jun 28 00:56:49 2016 ]=>  احمد العبيدي [10012023] locked flood 
+ 
+[ Tue Jun 28 00:57:04 2016 ]=>  احمد العبيدي [10012023] unlocked flood
+ 
+[ Tue Jun 28 00:57:15 2016 ]=>  احمد العبيدي [10012023] locked flood 
+ 
+[ Tue Jun 28 01:00:29 2016 ]=>  احمد العبيدي [10012023] unlocked flood
+ 
+[ Tue Jun 28 01:00:43 2016 ]=>  احمد العبيدي [10012023] unlocked flood
+ 
+[ Tue Jun 28 01:09:11 2016 ]=>  احمد العبيدي [10012023] unlocked Arabic
+ 
+[ Tue Jun 28 01:09:21 2016 ]=>  احمد العبيدي [10012023] locked arabic 
+ 
+[ Tue Jun 28 01:09:32 2016 ]=>  احمد العبيدي [10012023] locked arabic 
+ 
+[ Tue Jun 28 01:12:02 2016 ]=>  احمد العبيدي [10012023] unlocked Arabic
+ 

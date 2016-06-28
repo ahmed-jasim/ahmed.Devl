@@ -1,0 +1,6 @@
+[ Fri Jun 17 11:21:16 2016 ]=>  احمد العبيدي [10012023] added SuperGroup
+ 
+[ Fri Jun 17 12:11:15 2016 ]=>  احمد العبيدي [10012023] set SuperGroup to: mute Audio
+ 
+[ Fri Jun 17 12:16:32 2016 ]=>  سيزر [191517196] deleted user user#id191517196
+ 
