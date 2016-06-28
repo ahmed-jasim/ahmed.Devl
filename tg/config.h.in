@@ -27,32 +27,14 @@
 /* Define to 1 if you have the <inttypes.h> header file. */
 #undef HAVE_INTTYPES_H
 
-/* Define to 1 if you have the <lauxlib.h> header file. */
-#undef HAVE_LAUXLIB_H
-
-/* Define to 1 if you have the `config' library (-lconfig). */
-#undef HAVE_LIBCONFIG
-
 /* Define to 1 if you have the `event' library (-levent). */
 #undef HAVE_LIBEVENT
 
 /* Define to 1 if you have the `gcrypt' library (-lgcrypt). */
 #undef HAVE_LIBGCRYPT
 
-/* Define to 1 if you have the `jansson' library (-ljansson). */
-#undef HAVE_LIBJANSSON
-
 /* Define to 1 if you have `z' library (-lz) */
 #undef HAVE_LIBZ
-
-/* Define to 1 if you have the <luaconf.h> header file. */
-#undef HAVE_LUACONF_H
-
-/* Define to 1 if you have the <lualib.h> header file. */
-#undef HAVE_LUALIB_H
-
-/* Define to 1 if you have the <lua.h> header file. */
-#undef HAVE_LUA_H
 
 /* Define to 1 if you have the <mach/mach.h> header file. */
 #undef HAVE_MACH_MACH_H
@@ -152,24 +134,12 @@
 /* Define to the version of this package. */
 #undef PACKAGE_VERSION
 
-/* Use custom prog name */
-#undef PROG_NAME
-
 /* Define to 1 if you have the ANSI C header files. */
 #undef STDC_HEADERS
 
 /* avoid OpenSSL entirely, use libgcrypt instead (this can't read *.pub files,
    though.) */
 #undef TGL_AVOID_OPENSSL
-
-/* use json */
-#undef USE_JSON
-
-/* use lua */
-#undef USE_LUA
-
-/* use python */
-#undef USE_PYTHON
 
 /* fixed for correct valgrind work */
 #undef VALGRIND_FIXES
